@@ -4,7 +4,7 @@ Status: Em Desenvolvimento
 
 ## Sobre
 
-+ É um clone do serviço de streaming Netflix.
++ É um clone do serviço de streaming Netflix de acordo com o projeto proposto pela Digital Innovation.
 
 ## Tecnologias
 
