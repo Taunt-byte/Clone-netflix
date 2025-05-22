@@ -1,0 +1,38 @@
+body {
+  margin: 0%;
+  padding: 5px;
+  background-color: black;
+  color: #ffffff;
+}
+a {
+  color: #ffffff;
+  text-decoration: none;
+}
+a:hover {
+  color: blue;
+}
+.logo {
+  text-align: left;
+  font-family: fantasy;
+  color: crimson;
+}
+
+.titulo {
+  font-size: 24px;
+  font-weight: bold;
+}
+.descricao {
+  margin-bottom: 10px;
+}
+.botao {
+  margin-right: 10px;
+}
+.card {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px 0;
+}
+.houseofcards{
+    width: 300px;
+    height: 300px;
+}
